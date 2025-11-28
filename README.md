@@ -33,7 +33,6 @@ Example file used: `tcc_ceds_music.csv`
 
 ## Installation
 1. Clone the repository:
-
 `git clone https://github.com/ic_2nd/music-recommendation-system.git`
 `cd music-recommendation-system`
 
