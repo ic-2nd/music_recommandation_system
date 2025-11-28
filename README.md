@@ -34,15 +34,15 @@ Example file used: `tcc_ceds_music.csv`
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/ic_2nd/music-recommendation-system.git
-cd music-recommendation-system
+`git clone https://github.com/ic_2nd/music-recommendation-system.git`
+`cd music-recommendation-system`
 
 Install dependencies:
-- pip install pandas numpy scikit-learn matplotlib seaborn
+`pip install pandas numpy scikit-learn matplotlib seaborn`
 Place your CSV dataset in the project directory.
 
 Update the file path in the script:
-- data = pd.read_csv("/path/to/your/tcc_ceds_music.csv")
+`data = pd.read_csv("/path/to/your/tcc_ceds_music.csv")`
 
 Run the script:
-- python music_recommender.py
+`python music_recommender.py`
