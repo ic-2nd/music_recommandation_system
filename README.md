@@ -8,10 +8,6 @@ A **content-based music recommendation system** built in Python that suggests so
 - [Features](#features)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Example](#example)
-- [Visualization](#visualization)
-- [License](#license)
 
 ---
 
